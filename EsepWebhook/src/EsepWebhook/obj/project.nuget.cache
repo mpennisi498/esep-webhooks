@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZxCoByOGoobdMR13DffX6t+gINAOrY0Kn3h/o7sOngPv/Oms0h/kdipp96YI5LniB+brHm7QxeJqNcpeVmWQmg==",
+  "success": true,
+  "projectFilePath": "/Users/maxmilianpennisi/Desktop/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/maxmilianpennisi/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/maxmilianpennisi/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/Users/maxmilianpennisi/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.3/microsoft.netcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
+    "/Users/maxmilianpennisi/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.3/microsoft.aspnetcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
+    "/Users/maxmilianpennisi/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/8.0.3/microsoft.netcore.app.crossgen2.osx-arm64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
